@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "username": "ysfkrkmz",
+    "password": "$2b$10$H0932SEWkMkEelsmQ7Ls6ujSqgqs23fo9peFth8agt1Gf/ObJw4Dq",
+    "createdAt": "2025-08-04T22:56:53.496Z",
+    "isAdmin": true
+  },
+  {
+    "id": 2,
+    "username": "esra",
+    "password": "$2b$10$VEye7uTSih/Nfj/KVsvA/exJC2IGJk2vS6zWjBtMFwFzQLih8uh0.",
+    "createdAt": "2025-08-05T17:38:14.352Z",
+    "isAdmin": true
+  },
+  {
+    "id": 3,
+    "username": "test",
+    "password": "$2b$10$DpdZCLJR0fX0fEwNdpzGrerHQvWMaF.oARZrN/OTx05PhlBYQym/6",
+    "email": "test@example.com",
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "isAdmin": false
+  }
+]
