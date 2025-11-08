@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/anime-projem/', // ⚠️ BURAYA GitHub reposunun adını YAZ örn: '/anime-projem/'
+  base: '/anime-projem/', 
   plugins: [react()],
   server: {
     port: 5173,
@@ -19,3 +19,4 @@ export default defineConfig({
     assetsDir: 'assets'
   }
 })
+
