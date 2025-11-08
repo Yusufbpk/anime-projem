@@ -1,12 +1,12 @@
 const mongoose = require('mongoose');
 
-// MongoDB bağlantı konfigürasyonu
+
 const connectDB = async () => {
   try {
-    // MongoDB bağlantı URI'si
+    
     const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost:27017/anime_projem';
     
-    // MongoDB'ye bağlan
+   
     const conn = await mongoose.connect(mongoURI, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
@@ -20,3 +20,4 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
+
