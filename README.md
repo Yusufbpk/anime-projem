@@ -258,7 +258,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 👨‍💻 Geliştirici
 
-**Yusuf Karakuz** - Anime tutkunu ve full-stack geliştirici
+**Yusuf Korkmaz** - Full-stack geliştirici
 
 ## 🙏 Teşekkürler
 
@@ -270,3 +270,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 ---
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
+
